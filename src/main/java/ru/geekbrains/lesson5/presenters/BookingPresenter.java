@@ -56,4 +56,12 @@ public class BookingPresenter implements ViewObserver {
             updateUIShowshowСhangeReservationTable(-1, -1);
         }
     }
+
+
+
+    @Override
+    public void onReservationTable(Date orderDate, int tableNo, String nameClients) {
+        
+        throw new UnsupportedOperationException("Unimplemented method 'onReservationTable'");
+    }
 }

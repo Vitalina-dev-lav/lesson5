@@ -2,7 +2,6 @@ package ru.geekbrains.lesson5.models;
 
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.Locale;
 
 public class Table {
 
